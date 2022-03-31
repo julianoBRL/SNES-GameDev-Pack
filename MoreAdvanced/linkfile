@@ -1,0 +1,11 @@
+[objects]
+src/main.obj
+src/map1.obj
+src/map2.obj
+src/utils/mapRender.obj
+data.obj
+hdr.obj
+c:\snesdev\pvsneslib\lib\crt0_snes.obj
+c:\snesdev\pvsneslib\lib\libc.obj
+c:\snesdev\pvsneslib\lib\libm.obj
+c:\snesdev\pvsneslib\lib\libtcc.obj

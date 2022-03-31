@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.5" tiledversion="1.7.2" orientation="orthogonal" renderorder="right-down" width="8" height="2" tilewidth="16" tileheight="16" infinite="0" nextlayerid="2" nextobjectid="1">
+ <tileset firstgid="1" source="../../SpriteSheet/IndustrialMapV2.tsx"/>
+ <layer id="1" name="Camada de Tiles 1" width="8" height="2">
+  <data encoding="csv">
+513,514,515,516,517,518,519,520,
+545,546,547,548,549,550,551,552
+</data>
+ </layer>
+</map>
